@@ -1,0 +1,17 @@
+{
+  "node": {
+    "4058f0f008446a3cbb5e9097a54d29fa412cb75f75": {
+      "workers": {
+        "app/page": {
+          "moduleId": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fmasa%2FDesktop%2FTech0%2FStep3%2FStep3-2%2Foptional_okapi%2Ffrontend%2Fsrc%2Fapp%2FtranscriptionVideo.js%22%2C%5B%5B%224058f0f008446a3cbb5e9097a54d29fa412cb75f75%22%2C%22default%22%5D%5D%5D%5D&__client_imported__=true!",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/page": "action-browser"
+      }
+    }
+  },
+  "edge": {},
+  "encryptionKey": "e/0jkmRCo95z/wIMB6C9EnpNhbPF0nZbZevei6yQwP4="
+}
